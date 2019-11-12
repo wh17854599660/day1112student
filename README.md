@@ -1,1 +1,1 @@
-# day1112student
+pubilcconfig.py
