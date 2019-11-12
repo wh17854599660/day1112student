@@ -1,1 +1,0 @@
-pubilcconfig.py
